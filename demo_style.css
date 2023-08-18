@@ -1,0 +1,155 @@
+#div1{
+    height: 4rem;
+    width: 6rem;
+
+    background-color: #393a7b;
+    margin-bottom: 20px;
+    padding: 20px 10px 5px 25px;
+    /* border-width: 2px 4px 6px 8px;
+    border-style: solid;
+    border-color: red; */
+    border: 4px solid yellow;
+}
+#div3{
+    height: 4rem;
+    width: 6rem;
+
+    background-color: orange;
+    margin: 4px;
+
+}
+
+#div4{
+
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+#div5{
+
+    background-color: cyan;
+    height: 200px;
+    width: 200px;
+}
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color: cyan;
+
+}
+span{
+    display: block;
+}
+#logo-img-container{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("/HTML/download.jpg");
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+div{
+    display: inline-block;
+}
+
+#sample-para{
+    /* border: 2px solid  */
+    /* border-left: 4px solid red; */
+    font-size: 30px;
+    color: blue;
+    font-weight: 700;
+    text-align: justify;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+        
+.pagination {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+        
+.pagination li {
+    margin: 0 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* p {
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+#blog-title:hover{
+    color: orange;
+}
+
+.color-red {
+    color: red;
+}
+
+#para-id {
+    color: purple;
+}
+li.h4{
+    color: aqua;
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+.color-red {
+    color: brown;
+}
+#site-desc p{
+    color: red; } */

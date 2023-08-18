@@ -1,0 +1,22 @@
+#Box{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+  margin: 0 auto;
+   background-color: red;
+    box-sizing: border-box;
+}
+
+#Click_Button{
+  text-align: center;
+}
+
+#onclick{
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+
+
+
+
+}

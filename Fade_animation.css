@@ -1,0 +1,31 @@
+.div1 {
+    height: 40px;
+    width: 250px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    font-size: 30px;
+    border: solid red;
+    border-width: 3px 0px 3px 0px;
+    text-align: center;
+    padding: 5px;
+    animation-name: changeShape, rotate, reduceSize;
+    animation-duration: 0.8s, 0.8s, 0.8s;
+    animation-direction: alternate, alternate, alternate;
+    animation-iteration-count: infinite,infinite, infinite;
+  }
+
+
+  @keyframes fadeI-inout {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  .text{
+    animation: fade-inout 5s infinite alternate;
+    font-size: 5em;
+  }
+
+
+
+
